@@ -1,4 +1,4 @@
 bootcamp
 ========
 
-class session
+class session wahoo!
